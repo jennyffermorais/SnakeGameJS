@@ -1,0 +1,11 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center; /*alinha horizontalmente no meio*/
+    align-items: center; /*alinha verticalmente no meio*/
+    flex-direction: column;
+    color: darkmagenta;
+
+
+}
