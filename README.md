@@ -4,4 +4,4 @@ Desafio prático da Digital Innovation One, desenvolvido durante a live feita pe
 
 O Snake Game foi desenvolvido com **JavaScript**. 
 
-![# Snake Game Img](https://i.imgur.com/HZ6IUmp.png)
+![snake game img](https://i.imgur.com/SXpGRyX.png)
